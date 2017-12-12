@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="ssh://root@192.168.10.44:22/usr/bin/python" deleteMissingItems="true" createEmptyFolders="true" autoUploadExternalChanges="true" notifyRemoteChanges="true">
+    <serverData>
+      <paths name="ssh://root@192.168.10.44:22/usr/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/datadisk/python/py3" local="$PROJECT_DIR$/py3" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
