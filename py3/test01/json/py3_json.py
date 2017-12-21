@@ -25,15 +25,20 @@ import pickle
 #     f.write(k)
 
 with open('json.txt') as f:
-    data=f.readline()
-    print(type(data))
+    a = ''
+    for i in f.readlines():
+        a=''.join([a,i.strip()])
+    b=json.loads(a)
+    print(b['name'])
+    # data=f.readlines()
+    # print(type(data))
     # print(str(data))
     # a={}
 
-    a=json.dumps(data)
-    b=json.loads(data)
-    print(type(b))
-    print(b['name'])
+    # a=json.dumps(data)
+    # b=json.loads(data)
+    # print(type(b))
+    # print(b['name'])
 
 
 
