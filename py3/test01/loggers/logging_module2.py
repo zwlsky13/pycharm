@@ -11,7 +11,11 @@
 
 import logging
 
-logger = logging.getLogger()
+#括号里面的内容是添加用户信息，不写的话，默认root用户
+logger = logging.getLogger('sky')
+
+#设置日志等级
+logger.setLevel(logging.DEBUG)
 
 # 创建一个handler，用于写入日志文件
 

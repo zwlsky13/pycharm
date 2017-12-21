@@ -9,7 +9,7 @@
 @time: 2017/12/6 7:32
 """
 
-import logging
+
 import logging
 
 logging.basicConfig(level=logging.DEBUG,

@@ -1,0 +1,11 @@
+{
+  "name":"sky",
+  "account_id":"100001",
+  "passwd":"123456",
+  "balance":"50000",
+  "credit_line":"100000",
+  "begin_date":"2017-12-21",
+  "over_time":"2018-12-20",
+  "status":"0"
+}
+#0:正常,1:锁定,2:失效

@@ -1,5 +1,5 @@
-Fri, 08 Dec 2017 22:55:07 logging_module1.py[line:25] DEBUG debug message
-Fri, 08 Dec 2017 22:55:07 logging_module1.py[line:27] INFO info message
-Fri, 08 Dec 2017 22:55:07 logging_module1.py[line:29] WARNING warning message
-Fri, 08 Dec 2017 22:55:07 logging_module1.py[line:31] ERROR error message
-Fri, 08 Dec 2017 22:55:07 logging_module1.py[line:33] CRITICAL critical message
+Thu, 21 Dec 2017 10:36:48 logging_module1.py[line:25] DEBUG debug message
+Thu, 21 Dec 2017 10:36:48 logging_module1.py[line:27] INFO info message
+Thu, 21 Dec 2017 10:36:48 logging_module1.py[line:29] WARNING warning message
+Thu, 21 Dec 2017 10:36:48 logging_module1.py[line:31] ERROR error message
+Thu, 21 Dec 2017 10:36:48 logging_module1.py[line:33] CRITICAL critical message
